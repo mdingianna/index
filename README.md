@@ -9,3 +9,6 @@ es lo que llamamos "transformación digital".
 En mi caso disfruto del enorme desafío que significa participar en proyectos que pretenden hacer funcionar las cosas en ese contexto, 
 gestionando, desarrollando estrategias, capacitando, desbloqueqando impedimentos. Mi especialidad es brindar ayuda para que las cosas ocurran, 
 para que los sueños se hagan realidad.
+
+<img alt="key-domains" src="https://github.com/mdingianna/index/assets/4071171/2d3a804d-ebb0-477c-84c8-d4afcb6372b2">
+
